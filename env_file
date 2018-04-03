@@ -1,0 +1,5 @@
+POSTGRES_USER=gabs
+POSTGRES_PASSWORD=post10
+POSTGRES_DB=gabs
+APP_SECRET_KEY=gabs
+DATABASE_URL=postgres://gabs:post10@localhost:5432/gabs
